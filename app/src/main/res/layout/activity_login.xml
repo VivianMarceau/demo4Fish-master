@@ -27,7 +27,7 @@ android:fitsSystemWindows="true" >
             android:maxLength="20"
             android:paddingLeft="55dp"
             android:paddingRight="60dp"
-            android:init="请输入您的用户名"
+            android:hint="请输入您的用户名"
             >
         </EditText>
         <ImageView
@@ -73,7 +73,7 @@ android:fitsSystemWindows="true" >
             android:maxLength="20"
             android:paddingLeft="55dp"
             android:paddingRight="60dp"
-            android:init="请输入您的密码">
+            android:hint="请输入您的密码">
         </EditText>
         <ImageView
             android:layout_width="28dp"
